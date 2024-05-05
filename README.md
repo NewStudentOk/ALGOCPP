@@ -9,3 +9,4 @@
 #### 4. [Динамический массив. Списки. Деки](https://github.com/NewStudentOk/ALGOCPP/tree/main/Less_4).
 #### 5. [Пирамиды и деревья поиска](https://github.com/NewStudentOk/ALGOCPP/tree/main/Less_5).
 #### 6. [Хеширование](https://github.com/NewStudentOk/ALGOCPP/tree/main/Less_6).
+#### 7. [Графы](https://github.com/NewStudentOk/ALGOCPP/tree/main/Less_7).
